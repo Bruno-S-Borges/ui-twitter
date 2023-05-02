@@ -31,6 +31,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 ## Links
   - Link Projeto: https://ui-twitter-seven.vercel.app
   - Repositorio: https://github.com/Bruno-S-Borges/ui-twitter
+  - Link Figma: https://www.figma.com/file/MmDivWLRCyCTfr4ZGPRUHL/Twitter-UI-(Community)?type=design&node-id=1-937&t=Kippvtyuy7Tm2viY-0
 
   ## Authors
 
